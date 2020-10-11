@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "title": "Test movie",
+  "length": 99,
+  "productionDate": 2000,
+  "country": "GB",
+  "genres": [
+    "ACTION",
+    "COMEDY"
+  ],
+  "directors": [
+    {
+      "id": 1,
+      "name": "Charlie",
+      "lastName": "Chaplin",
+      "country": "GB",
+      "dateOfBirth": "01-01-1900",
+      "directedMovies": null,
+      "starredMovies": null
+    }
+  ],
+  "cast": [
+    {
+      "id": 2,
+      "name": "Hans",
+      "lastName": "Gruber",
+      "country": "DE",
+      "dateOfBirth": "02-02-1901",
+      "directedMovies": null,
+      "starredMovies": null
+    }
+  ]
+}
